@@ -1,0 +1,1 @@
+# Global-Horizontal-Irradiance-Modeling-from-Sky-Images-Using-ResNet-Architectures-Publisher-IEEE-Cit
